@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Omprasad Padwalkar</h1>
+
+<p align="center">
+  <a href="https://github.com/omprasad-007">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=First-Year+Data+Science+Student;C+%26+Python+Programmer;Web+Development+Learner;Future+Data+Scientist+🚀;Always+Learning+New+Things!">
+  </a>
+</p>
+
 # 💫 About Me:
 
 Hi 👋 I'm **Omprasad Padwalkar**  
