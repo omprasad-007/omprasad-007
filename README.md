@@ -33,7 +33,7 @@ Hi 👋 I'm **Omprasad Padwalkar**
 
 ## 📫 Connect With Me:
 
-📧 Email: **omprasadpadwalkar07@gmail.com**  
+📧 Email: **omprasadpadwalkar007@gmail.com**  
 💼 LinkedIn: **[Omprasad Padwalkar](https://linkedin.com/in/omprasad-padwalkar-824224394)**  
 
 ---
