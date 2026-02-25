@@ -10,14 +10,15 @@
 
 Hi 👋 I'm **Omprasad Padwalkar**  
 
-🎓 **First-Year Data Science Engineering Student 2025**  
+🎓 **First-Year Data Science Engineering Student 2025 - 26**  
 📍 D Y Patil College of Engineering Kasaba Bawada, Kolhapur  
 
 💻 Passionate about **Programming, Problem-Solving, and Real-World Projects**  
 🚀 Skilled in **C & Python**, currently exploring:  
 - Web Development  
 - Data Science & Machine Learning  
-- Open Source Contribution  
+- Open Source Contribution
+- Cyber Security  
 
 📌 Always learning, growing, and working towards becoming a **top tech professional**  
 
@@ -26,7 +27,8 @@ Hi 👋 I'm **Omprasad Padwalkar**
 ## 🌐 Projects:
 
 🔹 **Portfolio Website** – Personal branding & showcase  
-🔹 **E-Commerce Website** – Web + gamification features  
+🔹 **E-Commerce Website** – Web + gamification features
+🔹 **SecurePay-AI** - For Payment Risk alert
 🔹 More exciting projects coming soon 🚀  
 
 ---
