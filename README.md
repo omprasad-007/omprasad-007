@@ -10,7 +10,7 @@
 
 Hi 👋 I'm **Omprasad Padwalkar**  
 
-🎓 **First-Year Data Science Engineering Student**  
+🎓 **First-Year Data Science Engineering Student 2025**  
 📍 D Y Patil College of Engineering Kasaba Bawada, Kolhapur  
 
 💻 Passionate about **Programming, Problem-Solving, and Real-World Projects**  
