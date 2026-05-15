@@ -111,6 +111,12 @@ Mindset     : Learn → Build → Improve
 
 </div>
 
+<div align="center">
+
+<a href="https://omprasad-007.github.io/omprasad-007/snake/">Play the interactive Snake game (GitHub Pages)</a>
+
+</div>
+
 ---
 
 # 💻 Profile Summary

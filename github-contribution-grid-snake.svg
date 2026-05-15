@@ -1,0 +1,283 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="140" viewBox="0 0 600 140" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#f6f8fa"/>
+  <!-- Contribution-style grid: 7 rows x 30 columns -->
+  <!-- Parameters: cols=30, rows=7, cell=16, marginX=20, marginY=8 -->
+  <!-- colors: bg=#ebedf0, snake=#0366d6 -->
+  <g id="grid">
+    <!-- Cells: each cell lights up when the snake passes; timing uses ms offsets -->
+
+    <!-- Generated cells -->
+
+    <!-- column 0 -->
+    <rect x="22" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="0ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 1 -->
+    <rect x="38" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="38" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="38" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="1080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="38" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="1200ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="38" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="1320ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="38" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="1440ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="38" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="1560ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 2 -->
+    <rect x="54" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="1680ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="54" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="1800ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="54" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="1920ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="54" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="2040ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="54" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="2160ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="54" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="2280ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="54" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="2400ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 3 -->
+    <rect x="70" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="2520ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="70" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="2640ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="70" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="2760ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="70" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="2880ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="70" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3000ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="70" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="70" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 4 -->
+    <rect x="86" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="86" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="86" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="86" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="86" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="86" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="3960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="86" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="4080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 5 -->
+    <rect x="102" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="4200ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="102" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="4320ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="102" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="4440ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="102" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="4560ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="102" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="4680ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="102" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="4800ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="102" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="4920ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 6 -->
+    <rect x="118" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="5040ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="118" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="5160ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="118" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="5280ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="118" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="5400ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="118" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="5520ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="118" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="5640ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="118" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="5760ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 7 -->
+    <rect x="134" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="5880ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="134" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6000ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="134" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="134" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="134" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="134" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="134" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 8 -->
+    <rect x="150" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="150" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="150" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="6960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="150" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="7080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="150" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="7200ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="150" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="7320ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="150" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="7440ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 9 -->
+    <rect x="166" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="7560ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="166" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="7680ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="166" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="7800ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="166" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="7920ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="166" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="8040ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="166" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="8160ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="166" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="8280ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 10 -->
+    <rect x="182" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="8400ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="182" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="8520ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="182" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="8640ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="182" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="8760ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="182" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="8880ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="182" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9000ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="182" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 11 -->
+    <rect x="198" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="198" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="198" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="198" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="198" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="198" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="198" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="9960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 12 -->
+    <rect x="214" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="10080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="214" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="10200ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="214" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="10320ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="214" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="10440ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="214" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="10560ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="214" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="10680ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="214" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="10800ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 13 -->
+    <rect x="230" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="10920ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="230" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="11040ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="230" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="11160ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="230" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="11280ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="230" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="11400ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="230" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="11520ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="230" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="11640ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 14 -->
+    <rect x="246" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="11760ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="246" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="11880ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="246" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12000ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="246" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="246" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="246" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="246" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 15 -->
+    <rect x="262" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="262" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="262" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="262" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="12960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="262" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="13080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="262" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="13200ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="262" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="13320ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 16 -->
+    <rect x="278" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="13440ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="278" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="13560ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="278" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="13680ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="278" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="13800ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="278" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="13920ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="278" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="14040ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="278" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="14160ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 17 -->
+    <rect x="294" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="14280ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="294" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="14400ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="294" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="14520ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="294" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="14640ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="294" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="14760ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="294" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="14880ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="294" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15000ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 18 -->
+    <rect x="310" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="310" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="310" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="310" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="310" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="310" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="310" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 19 -->
+    <rect x="326" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="15960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="326" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="16080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="326" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="16200ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="326" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="16320ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="326" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="16440ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="326" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="16560ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="326" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="16680ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 20 -->
+    <rect x="342" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="16800ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="342" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="16920ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="342" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="17040ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="342" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="17160ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="342" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="17280ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="342" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="17400ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="342" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="17520ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 21 -->
+    <rect x="358" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="17640ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="358" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="17760ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="358" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="17880ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="358" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18000ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="358" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="358" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="358" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 22 -->
+    <rect x="374" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="374" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="374" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="374" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="374" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="18960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="374" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="19080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="374" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="19200ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 23 -->
+    <rect x="390" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="19320ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="390" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="19440ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="390" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="19560ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="390" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="19680ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="390" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="19800ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="390" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="19920ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="390" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="20040ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 24 -->
+    <rect x="406" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="20160ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="20280ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="20400ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="20520ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="20640ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="20760ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="406" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="20880ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 25 -->
+    <rect x="422" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21000ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="422" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="422" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="422" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="422" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="422" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="422" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 26 -->
+    <rect x="438" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="438" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="21960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="438" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="22080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="438" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="22200ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="438" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="22320ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="438" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="22440ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="438" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="22560ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 27 -->
+    <rect x="454" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="22680ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="454" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="22800ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="454" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="22920ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="454" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="23040ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="454" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="23160ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="454" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="23280ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="454" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="23400ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 28 -->
+    <rect x="470" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="23520ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="470" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="23640ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="470" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="23760ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="470" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="23880ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="470" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24000ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="470" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24120ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="470" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24240ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+    <!-- column 29 -->
+    <rect x="486" y="10" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24360ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="486" y="26" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24480ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="486" y="42" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24600ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="486" y="58" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24720ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="486" y="74" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24840ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="486" y="90" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="24960ms" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="486" y="106" width="12" height="12" rx="2" fill="#ebedf0"><animate attributeName="fill" values="#ebedf0;#0366d6;#ebedf0" begin="25080ms" dur="1.2s" repeatCount="indefinite"/></rect>
+
+  </g>
+  <text x="50%" y="132" dominant-baseline="middle" text-anchor="middle" fill="#234a7e" font-family="Arial, Helvetica, sans-serif" font-size="11">Contribution Snake — playfully animated</text>
+</svg>
