@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Snake — Responsive Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Snake</h1>
+      <div class="controls">
+        <div class="left">
+          <label>Speed: <span id="speedValue">8</span></label>
+          <input id="speed" type="range" min="4" max="24" value="8" />
+          <button id="toggleWalls">Walls: On</button>
+        </div>
+        <div class="right">
+          <div id="score">Score: 0</div>
+          <button id="pause">Pause</button>
+          <button id="restart">Restart</button>
+        </div>
+      </div>
+
+      <div class="canvas-wrap">
+        <canvas id="game"></canvas>
+      </div>
+
+      <p class="hint">Controls: Arrow keys or WASD. Swipe on touch. Space to pause, R to restart.</p>
+
+      <footer>
+        <small>Resizable canvas — works offline. Author: automated scaffold.</small>
+      </footer>
+    </main>
+
+    <script src="game.js"></script>
+  </body>
+</html>
