@@ -1,0 +1,21 @@
+:root{--bg:#0d1117;--panel:#0b1220;--accent:#58a6ff;--muted:#94a3b8}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,Arial}
+body{display:flex;align-items:center;justify-content:center;background:linear-gradient(180deg,#071029,#0d1117);color:#c9d1d9;padding:24px}
+main{width:100%;max-width:900px}
+h1{text-align:center;margin:0 0 12px}
+.controls{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;gap:12px}
+.controls .left{display:flex;align-items:center;gap:8px}
+.controls .right{display:flex;align-items:center;gap:8px}
+button{background:var(--panel);color:var(--accent);border:1px solid rgba(255,255,255,0.04);padding:6px 10px;border-radius:6px;cursor:pointer}
+input[type=range]{width:160px}
+.canvas-wrap{background:linear-gradient(180deg,#02040a,#071029);padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)}
+canvas{display:block;width:100%;height:480px;background:#01040a;border-radius:8px}
+.hint{text-align:center;color:var(--muted);margin-top:10px}
+footer{margin-top:8px;text-align:center;color:var(--muted)}
+
+@media (max-width:600px){
+  canvas{height:360px}
+  .controls{flex-direction:column;align-items:stretch}
+  input[type=range]{width:100%}
+}

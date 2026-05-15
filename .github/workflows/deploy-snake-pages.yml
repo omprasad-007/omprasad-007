@@ -1,0 +1,35 @@
+name: Deploy Snake to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare site directory
+        run: |
+          rm -rf site
+          mkdir -p site/snake
+          cp -r snake/* site/snake/ || true
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
