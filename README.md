@@ -1,91 +1,195 @@
-<h1 align="center">Hi 👋, I'm Omprasad Padwalkar</h1>
+<!-- ========================= -->
+<!--      CYBER HEADER         -->
+<!-- ========================= -->
 
-<p align="center">
-  <a href="https://github.com/omprasad-007">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=First-Year+Data+Science+Student;C+%26+Python+Programmer;Web+Development+Learner;Future+Data+Scientist+🚀;Always+Learning+New+Things!">
-  </a>
-</p>
+<div align="center">
 
-# 💫 About Me:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=OMPRASAD%20PADWALKAR&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Firebase%20Builder%20%7C%20CSE%20Student&descAlignY=58"/>
 
-Hi 👋 I'm **Omprasad Padwalkar**  
-
-🎓 **First-Year Data Science Engineering Student 2025 - 26**  
-📍 D Y Patil College of Engineering Kasaba Bawada, Kolhapur  
-
-💻 Passionate about **Programming, Problem-Solving, and Real-World Projects**  
-🚀 Skilled in **C & Python**, currently exploring:  
-- Web Development  
-- Data Science & Machine Learning  
-- Open Source Contribution
-- Cyber Security  
-
-📌 Always learning, growing, and working towards becoming a **top tech professional**  
+</div>
 
 ---
 
-## 🌐 Projects:
+<<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=INITIATING+COGNITIVE+SYNC...;BUILDING+REAL+WORLD+DOMAINS;FIREBASE+MASTER+INITIALIZED;ACCESSING+THE+MAINFRAME..."/>
 
-🔹 **Portfolio Website** – Personal branding & showcase  
-🔹 **E-Commerce Website** – Web + gamification features
-🔹 **SecurePay-AI** - For Payment Risk alert
-🔹 More exciting projects coming soon 🚀  
+</div>
 
 ---
 
-## 📫 Connect With Me:
+# 🧠 About Me
 
-📧 Email: **omprasadpadwalkar007@gmail.com**  
-💼 LinkedIn: **[Omprasad Padwalkar](https://linkedin.com/in/omprasad-padwalkar-824224394)**  
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
+```bash
+> whoami
 
-# 🌐 Socials:
+Name        : Omprasad Padwalkar
+Role        : Data Science Engineering
+Focus       : Full Stack Development
+Learning    : Firebase • Backend • Android Apps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/omprasad-padwalkar-824224394)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omprasadpadwalkar007@gmail.com)
----
-
-## 🌐 Coding Profiles:
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
-
+Mindset     : Learn → Build → Improve
+```
 
 ---
 
-# 💻 Tech Stack:
+## 🚀 What I Do
 
-### 👨‍💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 📊 Data Science Tools  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- 🌐 Build modern responsive websites
+- 📱 Convert web apps into Android apps using Capacitor
+- 🔥 Work with Firebase Authentication & Firestore
+- ⚡ Deploy apps on Vercel & Netlify
+- 🎨 Design clean UI/UX experiences
+- 🛠️ Build utility & productivity applications
+- 📚 Learn technologies by creating projects
 
 ---
 
-# 📊 GitHub Stats:
+# 🧩 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=omprasad-007&theme=dark&hide_border=false)
+<div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=omprasad-007&theme=dark&hide_border=false)
+| 🚀 Project | 💡 Description |
+|---|---|
+| 💰 Aivora Expense Tracker | Smart expense management system |
+| 📚 Smart Library Management | Digital library automation |
+| 🧪 Virtual C Lab | Online environment for C programming |
+| 🔒 SecurPay | Secure digital payment concept |
+| 🛡️ SecureCode | Security-focused coding utilities |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omprasad-007&theme=dark&hide_border=false&layout=compact)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=omprasad-007&icon=0&color=0)](https://visitcount.itsvg.in)
+# ⚙️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,firebase,mongodb,git,github,vscode,figma,vercel,netlify,npm,vite,androidstudio,java,c,cpp,linux,bash&perline=7"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omprasad-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=omprasad-007&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omprasad-007&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omprasad-007&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/omprasad-007/omprasad-007/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💻 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omprasad-007&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```yaml
+Learning:
+  - Advanced JavaScript
+  - Firebase Ecosystem
+  - Backend Development
+  - REST APIs
+  - Android App Packaging
+  - Linux & Terminal Tools
+  - Authentication Systems
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreyash-mane-7675a4385">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:omprasadpadwalkar007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/omprasad-007">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+
+---
+
+# ⚡ Fun Zone
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🧬 Developer Mindset
+
+<div align="center">
+
+```text
+Code.
+Break.
+Debug.
+Learn.
+Repeat.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
