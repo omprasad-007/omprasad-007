@@ -103,22 +103,6 @@ Mindset     : Learn → Build → Improve
 
 ---
 
-# 🌌 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/omprasad-007/omprasad-007/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://omprasad-007.github.io/omprasad-007/snake/">Play the interactive Snake game (GitHub Pages)</a>
-
-</div>
-
----
-
 # 💻 Profile Summary
 
 <div align="center">
