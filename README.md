@@ -21,9 +21,9 @@
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```bash
-> whoami
+> who am i
 
-Name        : Omprasad Padwalkar
+Name        : Omprasad Bhaskar Padwalkar
 Role        : Data Science Engineering
 Focus       : Full Stack Development
 Learning    : Firebase • Backend • Android Apps
