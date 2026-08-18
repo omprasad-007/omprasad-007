@@ -33,7 +33,7 @@ Mindset     : Learn → Build → Improve
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 
 - 🌐 Build modern responsive websites
 - 📱 Convert web apps into Android apps using Capacitor
