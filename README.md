@@ -83,7 +83,6 @@ Mindset     : Learn → Build → Improve
 
 ---
 
-## 📈 GitHub Activity Graph
 
 ## 📈 GitHub Activity Graph
 
